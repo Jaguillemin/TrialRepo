@@ -1,2 +1,2 @@
 # TrialRepo
-Description of repository
+Description of repository. Trying my first repository build!
