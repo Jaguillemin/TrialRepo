@@ -1,0 +1,12 @@
+#Comp bio lecture 3
+#Put commands in terminal
+git status
+#red files are untracked, checkes current status of repository 
+git add -A
+#stage untracked files, adds alteres intracked files to staging area
+git commit -am '<message>'
+# a stands for all, m stands for message, takes all files and commits them with a brief message 
+git push
+# takes changes we made locally and the snapshot and pushes it to git hub repo
+git pull 
+#pull any changes from github down to local repo
